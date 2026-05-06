@@ -15,16 +15,16 @@
 <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/abda481f-d227-4659-bade-df6c6844451a" />
 
 
-
+## Database/Schema section
 
 <img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/1a9ff89c-77e6-4cc4-a17a-77bc329ff75a" />
 
 
-
+## generated query
 
 <img width="940" height="904" alt="image" src="https://github.com/user-attachments/assets/f93de2d3-4a1c-4ef7-a282-b60a57d02941" />
 
-
+## available schemas
 
 <img width="933" height="1241" alt="image" src="https://github.com/user-attachments/assets/bd7b9f0f-8732-4196-a237-b87e7e4c6c48" />
 
